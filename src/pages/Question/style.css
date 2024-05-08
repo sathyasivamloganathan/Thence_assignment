@@ -1,0 +1,40 @@
+.questions-container {
+  max-width: 1400px;
+  min-height: 450px;
+  margin: 150px auto auto auto;
+  background: #e8eee7;
+  border-radius: 30px;
+  display: flex;
+  flex-direction: row;
+}
+
+@media screen and (max-width: 500px) {
+  .questions-container {
+    margin-top: 200px;
+    max-width: 80%;
+    flex-direction: column;
+  }
+}
+
+.left-container {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  margin: 60px;
+}
+
+.left-container > text:nth-child(1) {
+  font-size: 27px;
+  font-family: "Covered By Your Grace", cursive;
+  font-weight: 400;
+  line-height: 30px;
+  color: #9e9d9d;
+}
+
+.left-container > text:nth-child(2) {
+  font-size: 45px;
+  font-family: "Manrope", sans-serif;
+  font-weight: 600;
+  line-height: 66px;
+  color: #1C1C1C;
+}

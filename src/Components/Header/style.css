@@ -1,0 +1,26 @@
+.navigation {
+  background: #ffffff;
+  border: 1px solid #eaeaea;
+  border-radius: 65px;
+  margin: 30px 20px 30px 20px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  height: 111px;
+  align-items: center;
+  width: 1392px;
+  height: 111.17px;
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(15.6667px);
+  border-radius: 65px;
+  overflow: hidden;
+}
+
+
+.image_container > img {
+  width: 121px;
+  height: 30.5px;
+  margin: 0px 0px 0px 30px;
+}
