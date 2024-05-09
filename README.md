@@ -1,6 +1,5 @@
 # Thence Assignment
 
-This is the Thence Assignment project.
 
 Deployment Link:
 https://main--thencewebassignment.netlify.app/
