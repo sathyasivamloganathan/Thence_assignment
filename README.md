@@ -1,3 +1,20 @@
+# Thence Assignment
+
+This is the Thence Assignment project.
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/sathyasivamloganathan/Thence_assignment.git
+
+2. Navigate to the project directory:
+   cd Thence_assignment
+
+3. Install dependencies:
+   npm install
+   
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
