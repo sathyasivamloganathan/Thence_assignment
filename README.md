@@ -2,6 +2,9 @@
 
 This is the Thence Assignment project.
 
+Deployment Link:
+https://main--thencewebassignment.netlify.app/
+
 ## Installation
 
 1. Clone the repository:
@@ -10,9 +13,11 @@ This is the Thence Assignment project.
    git clone https://github.com/sathyasivamloganathan/Thence_assignment.git
 
 2. Navigate to the project directory:
+   ```bash
    cd Thence_assignment
 
 3. Install dependencies:
+   ```bash
    npm install
    
 # React + Vite
